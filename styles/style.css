@@ -112,13 +112,11 @@ ul .header__menu-item_active {
 }
 
 .overlay {
-
   width: 100%;
   height: 100%;
   position: absolute;
   background-color: #00000020; /* непонятно, как попасть с прозрачностью*/
   z-index: 5; 
-
 }
 
 /*.cover_title {
@@ -404,6 +402,7 @@ button {
   position: absolute;
   bottom: 399px;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .about_header_font {
@@ -495,5 +494,3 @@ button {
 .footer__social-list-item {
   width: 48px;
 }
-
-
