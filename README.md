@@ -1,1 +1,1 @@
-Версия кода 03.10.2024.
+https://github.com/DenisShaitanow/ono-tebe-nado/tree/main
