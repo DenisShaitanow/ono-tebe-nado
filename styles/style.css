@@ -64,14 +64,14 @@ body {
   margin-right: 184px;
 }
 
-.adress {
+.address {
   display: flex;
   flex-direction: column;
   width: 240.52px;
   box-sizing: border-box;
 }
 
-.adress_margin_top {
+.address_margin_top {
   margin-top: 5px;
 }
 
